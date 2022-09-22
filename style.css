@@ -1,0 +1,19 @@
+.padre{
+    display:flex;    
+}
+
+.listas{
+    display:flex;
+    padding: 0,5px;
+}
+
+.aceptar{
+    display:flex;
+}
+
+.signup{
+    display: flex;
+}
+.registro{
+    display: flex;
+}
